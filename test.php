@@ -2,7 +2,7 @@
         <body>
                 Current time is
 <?php  
-    echo date('G:i:s');
+    echo date('g:i:s');
 ?> (by php) <br />
         <script type="text/javascript">
                 var d = new Date();

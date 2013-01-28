@@ -58,7 +58,7 @@ $topic = mysql_fetch_assoc($result);
             nav ul {
                 list-style: none;
                 padding-left: 0;
-                padding-right: 20px;
+                padding-right: 19px;
             }
             article {
                 float: left;
